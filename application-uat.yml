@@ -1,3 +1,5 @@
 cloud:
   sample:
     msg: "Hello, uat environment!"
+config:
+  name: "uat environment"
