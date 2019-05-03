@@ -1,3 +1,5 @@
 cloud:
   sample:
     msg: "Hello, dev environment!"
+config:
+  name: "dev environment"
